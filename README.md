@@ -9,7 +9,7 @@
 # gcwingo
 
 ## Library(ies) used
-- github.com/aiocat/cystem
+- `github.com/aiocat/cystem`
 
 
 ## License
