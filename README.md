@@ -14,4 +14,4 @@
 
 ## License
 Cystem is distributed under MIT license. for more information:
-- https://raw.githubusercontent.com/aiocat/cystem/main/LICENSE
+- https://raw.githubusercontent.com/fsb3rke/gcwingo/main/LICENSE
