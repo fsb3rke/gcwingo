@@ -14,4 +14,4 @@
 
 ## License
 gcwingo is distributed under MIT license. for more information:
-- https://raw.githubusercontent.com/fsb3rke/gcwingo/main/LICENSE?token=GHSAT0AAAAAABTR3LWP3PGUKILYSJPRF5IAYSYCT2Q
+- https://github.com/fsb3rke/gcwingo/blob/main/LICENSE
